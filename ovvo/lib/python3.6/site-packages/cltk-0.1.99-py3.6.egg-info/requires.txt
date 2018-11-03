@@ -1,0 +1,7 @@
+gitpython
+nltk
+python-crfsuite
+pyuca
+pyyaml
+regex
+whoosh

@@ -1,0 +1,34 @@
+#!/usr/bin/env python
+
+import json
+import sys
+import os
+import logging
+import collatinus
+
+logger = logging.getLogger('root')
+FORMAT = "<%(filename)s:%(lineno)s> in %(funcName)s ] %(message)s"
+logging.basicConfig(format=FORMAT)
+logger.setLevel(logging.DEBUG)
+
+preproc = collatinus.preprocess.Preprocessor()
+
+def main():
+    if len(sys.argv) < 3:
+        usage()
+
+    fqfn = sys.argv[1]
+    outdir = sys.argv[2]
+
+    if not os.path.exists(fqfn):
+        logger.error("Unable to find input file %s" % fqfn)
+    if not os.path.exists(outdir):
+        logger.warn("Output directory %s does not exist. Will try to create it." % outdir)
+    
+    preproc.process(fqfn, outdir)
+
+
+
+
+if __name__ == '__main__':
+    main()

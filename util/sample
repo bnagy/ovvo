@@ -1,0 +1,71 @@
+#!/usr/bin/env python
+
+import string
+import os
+import hashlib
+import re
+import logging
+import random
+import json
+import textwrap
+import io
+import collatinus
+import csv
+from sys import argv
+
+logger = logging.getLogger('root')
+FORMAT = "<%(filename)s:%(lineno)3s> in %(funcName)s ] %(message)s"
+logging.basicConfig(format=FORMAT)
+logger.setLevel(logging.INFO)
+cleaner = collatinus.clean.Cleaner()
+
+def process(lim):
+
+    filecount = 0
+    failed = 0
+    samples = 0
+
+    for root, dirs, files in os.walk('pass3'):
+        files[:] = [f for f in files if f.lower().endswith(".json")]
+        random.shuffle(files)
+        for f in files:
+            fqfn = os.path.join(root,f)
+            try:
+                basename = os.path.splitext(f)[0]
+                fqtagname = os.path.join(root, "%s.json" % basename)
+                with open(fqtagname) as th:
+                    tag = json.load(th)
+                logger.debug("[file]   %s" % fqfn)
+                logger.debug("[work]   %s -- %s" % (tag['author'], tag['title']))
+                filecount += 1
+                if not any(tag['sample']):
+                    continue
+
+                for x in tag['sample']:
+                    print('-'*40)
+                    print(x[0])
+                    print(x[1])
+                    print('')
+                    print(' '.join(x[2]))
+                    print('')
+                    print(x[3])
+                    print('-'*40)
+                    print('')
+                    samples +=1
+                    if lim and samples >= lim:
+                        return (filecount, failed)
+            except Exception as e:
+                logger.error("Error: %s" % e)
+                failed += 1 
+
+    return (filecount, failed)
+
+def main():
+    lim = None
+    if len(argv) > 0:
+        lim=int(argv[1])
+    filecount, failed = process(lim)
+    logger.debug("Successfully processed %d files, %d failures" % (filecount, failed))
+
+if __name__ == '__main__':
+    main()

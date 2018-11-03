@@ -1,0 +1,2025 @@
+----------------------------------------
+VERB: convenio - it agrees/came together/is agreed/asserted; [bene ~ nobis=>we're on good
+SENTENCE: Si autem oportet et hoc dici, audio te etiam totius cibi uel poculi desideria superare; et
+neque poma dulcia, neque aliud quidquam speciosum appetere, nisi quantum ad tactum <<conuenit>>, et
+solummodo sapori congruerit; primo tamen benedicere omnium Creatorem
+
+[tactum] <<conuenit,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: laudo - to recommend; to praise, approve, extol
+SENTENCE: Sed quoniam de uirginitate quidem sermones uirgo <<laudauerat>>, diuidi autem ab eo graue
+iudicabat, in alio cubili dormiens, annis decem et octo cum ea mansit, neque tunc a monachica
+abstinentia se suspendens
+
+[sermones] uirgo <<laudauerat,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: habeo - to have, hold, consider, think, reason; to manage, keep
+SENTENCE: Per ipsum omnia facta sunt, non odio <<habebit>> dicentes quia unus creaturarum est Filius
+
+non odio <<habebit>> [dicentes]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: constituo - - to set up/in position, erect; to place/dispose/locate
+SENTENCE: Id est, primum quidem filium sui nominis Constantinum Hesperiarum partium in decennali suo
+fecit habere principatum; secundum uero aui nomine Constantium in uicennalibus suis Caesarem in
+Oriente <<constituit>>; iuniorem uero Constantem in suis tricennalibus ordinauit
+
+[Caesarem] in Oriente <<constituit;>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: doceo - to teach, show, point out;
+SENTENCE: Si quis, sicuti <<docuit>> nos, non alium dicit Paracletum praeter Filium; ait enim
+
+sicuti <<docuit>> [nos,]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: laudo - to recommend; to praise, approve, extol
+SENTENCE: Haec eius opera <<laudant>> pauci, plurimique uituperant
+
+[opera] <<laudant>> pauci,
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: audio - to hear, listen, accept, agree with; to obey
+SENTENCE: <<Audiui>> namque etiam mulieres egressas, et cum radiis telarum eorum corpora uulnerasse;
+et cocos publicos, alios aquam, alios feruentes ollas fudisse super eos, alios subulis eorum membra
+perforasse
+
+<<Audiui>> namque etiam [mulieres]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: do - - to give; dedicate
+SENTENCE: Cumque uenissent ad principem proiecerunt aurum quod acceperant, et forti uoce poscebant
+ut reciperet quod <<dedisset>>, et illos occideret
+
+[quod] <<dedisset,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: pervenio - to come to; to reach
+SENTENCE: Cumque uenisset ad Euphratis fluminis ripam, iuxta ipsos muros ciuitatis expositam,
+ascendit in nauem, ut ad Zeugma nauigaret; iussitque nautis ut remigarent, factoque die ille quidem
+<<peruenit>> ad Zeugmatis locum
+
+die ille quidem <<peruenit>> ad Zeugmatis [locum]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: defero - to honor; to export (medieval usage)
+SENTENCE: Fitque denuo ea hora miraculum; uentus enim uehementissimus inspirans, emissa iacula ab
+Eugenii partibus contra eos denuo reuocabat, et a partibus imperatoris ad hostes cum magna
+fortitudine <<deferebat>>
+
+[magna] fortitudine <<deferebat>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: aperio - to uncover, open, disclose; to explain, recount
+SENTENCE: Dumque hoc fieret, suam uoluntatem imperator <<aperuit>>, fecitque per praeconem clamari
+
+[uoluntatem] imperator <<aperuit,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: servo - to watch over; to protect, store, keep, guard, preserve, save
+SENTENCE: Clauiger aethereus, portas qui <<seruat>> Olympi Petrus apostolicus, princeps et pastor
+ouilis
+
+[portas] qui <<seruat>> Olympi {Petrus} {apostolicus,}
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: habeo - to have, hold, consider, think, reason; to manage, keep
+SENTENCE: Per uarios casus mortalis uita cucurrit, Diuersosque dies omnis <<habebat>> homo
+
+[omnis] <<habebat>> homo
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: credo - - to trust, entrust; to commit/consign
+SENTENCE: <<Credidit>> ut languens ad sua tecta cucurrit Corpore sanato properans et pectore laeto,
+Morbida nec audet plus illum tangere febris
+
+<<Credidit>> ut [languens]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: sumo - to accept; to begin
+SENTENCE: abhinc regimen capit ille uocatu consulesque Pius, nomen habens meriti, filius huic fato
+nullus; set lege suorum a patria <<sumpsit>>, qui regeret patriam
+
+[patria] <<sumpsit,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: permitto - to let through; to let go through
+SENTENCE: Fieri uero haec Dominus <<permittit>> et patitur, manente propriae libertatis arbitrio,
+ut, dum corda nostra et mentes nostras ueritatis discrimen examinat, probatorum fides integra
+manifesta luce clarescat
+
+[haec] Dominus <<permittit>> et patitur,
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: scio - to know, understand;
+SENTENCE: Qui <<scit>> fratrem suum peccare peccatum non ad mortem, petat, et dabit illi uitam Deus;
+quia non peccat ad mortem
+
+Qui <<scit>> [fratrem]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: ostendo - to show; to reveal
+SENTENCE: Satanam autem corporalis huius contritionis et carnalis auctorem debilitatis Scriptura
+<<ostendit>>, Paulo dicente
+
+[Scriptura] <<ostendit,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: prodo - - to project, thrust forward; to bring forth, produce, give birth to
+SENTENCE: Pudor est ut unusquisque crimina sua <<prodat>>
+
+[sua] <<prodat>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: video - to see, look at; to consider
+SENTENCE: Hypocrita, eiice primum trabem de oculo tuo, et tunc <<uidebis>> eiicere festucam de oculo
+fratris tui
+
+et tunc <<uidebis>> eiicere [festucam]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: do - - to give; dedicate
+SENTENCE: Legimus litteras tuas, frater charissime, quibus significasti de Uictore, quondam
+presbytero, quod ei, antequam poenitentiam plenam egisset, et Domino Deo, in quem deliquerat,
+satisfecisset, temere Therapius, collega noster, immaturo tempore et praepropera festinatione pacem
+<<dederit>>
+
+[pacem] <<dederit>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: servo - to watch over; to protect, store, keep, guard, preserve, save
+SENTENCE: Propter quod integritatis et fidei uestrae religiosam sollicitudinem, fratres
+dilectissimi, et laudamus pariter et probamus; et quantum possumus adhortamur litteris nostris, ne
+uos cum profanis et maculatis sacerdotibus communicatione sacrilega misceatis, sed integram et
+sinceram fidei uestrae firmitatem religioso timore <<seruetis>>
+
+[firmitatem] religioso timore <<seruetis>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: disco - to learn; to hear, get to know, become acquainted with
+SENTENCE: Nemo enim uenit ad eum, si non qui misit eum, attraxerit uenientem ad Saluatorem, sicut in
+Euangelio, quod secundum Ioannem est <<didicimus>>
+
+[secundum] {Ioannem} est <<didicimus>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: lego - to read; gather, collect (cremated bones)
+SENTENCE: Numquid nulla mulier tunc idonea inuenta est, cum inter undecim apostolos sanctas mulieres
+fuisse <<legamus>>
+
+[mulieres] fuisse <<legamus>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: laudo - to recommend; to praise, approve, extol
+SENTENCE: Rogat pacem certis de causis intermissam; <<laudat>> imperatorem, et ad illum mittit
+legatos, qui contentiones dirimant, et concordiam suae deinceps firmitati restituant
+
+<<laudat>> [imperatorem,]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: patior - to suffer; to allow
+SENTENCE: Audentes facit homines fiducia sui, quia se non <<patitur>> occulere, quem praecipitat
+natura prodire
+
+[se] non <<patitur>> occulere,
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: sentio - to perceive, feel, experience; to think, realize, see, understand
+SENTENCE: Proinde factum est ut curiales, quibus nos uolumus esse prospectum, imminentium
+sollicitudine coacti, grauia damna <<sentirent>>, et, si dici fas est, cum alienis debitis sub
+truculentis compulsoribus urgerentur, possessionum quoque suarum amissione priuati sunt
+
+[damna] <<sentirent,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: audio - to hear, listen, accept, agree with; to obey
+SENTENCE: Libet referre quam magno tunc spectaculo totius scholae in eum conuertebatur aspectus;
+quem, cum <<audiret>> parentem, illa mox intendebat haeredem quaerens; ut quae auctorem cognouerat
+dicere, per huius posset similitudines approbare
+
+cum <<audiret>> [parentem,]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: habeo - to have, hold, consider, think, reason; to manage, keep
+SENTENCE: Deponite ferrum, qui non <<habetis>> inimicum
+
+qui non <<habetis>> [inimicum]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: gero - to bear, carry, wear; to carry on
+SENTENCE: Quid enim salubris ordinatio <<gerat>>, si morum probitas cuncta componat
+
+[salubris] ordinatio <<gerat,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: desero - to undo or sever (one's connection with another); to leave, forsake, abandon, desert, give up
+SENTENCE: Quamuis efficaciam tuam insistere credamus iniunctis, et studiose deflectere quae nobis
+cognoueris displicere, tamen sollicitum admonitio nostra non <<deserit>>, ut instructior reddaris,
+dum infra scriptis breuibus definita susceperis
+
+[nostra] non <<deserit,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: impero - to order, command, levy; to rule (over) (w/DAT)
+SENTENCE: si tamen inuasoribus quid fauere crediderit, instructam personam mitti ad aulam
+<<imperat>>, quo partibus utrinque auditis iusta feratur sententia
+
+[aulam] <<imperat,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: agito - to stir/drive/shake/move about; to revolve
+SENTENCE: Et quia sic notus est, cum facies ad tuum uenire iudicium, primum <<agito>>, ne promittat
+
+[primum] <<agito,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: sentio - to perceive, feel, experience; to think, realize, see, understand
+SENTENCE: Nam etsi cadauera furta non <<sentiunt>>, ab omni pietate alienus esse dignoscitur, qui
+aliquid mortuis abrogasse monstratur
+
+[furta] non <<sentiunt,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: habeo - to have, hold, consider, think, reason; to manage, keep
+SENTENCE: <<Habuerunt>> honorem, quia praecesserunt tempore, et in rudi saeculo quidquid emersisset
+nouum, per ora hominum iure ferebatur eximium
+
+<<Habuerunt>> [honorem,]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: sentio - to perceive, feel, experience; to think, realize, see, understand
+SENTENCE: Nam sicut casus asperos subibis, si quid fortasse deliqueris, ita irremuneratum non
+relinquimus, si te egisse inculpabiliter <<senserimus>>
+
+[te] egisse inculpabiliter <<senserimus>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: patior - to suffer; to allow
+SENTENCE: Quapropter locum sinistris cogitationibus amputantes, aliter de nobis non <<patimur>>
+credi quam quod de nostris potuit parentibus aestimari
+
+de nobis non <<patimur>> credi [quam]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: invenio - to come upon; to discover, find
+SENTENCE: Aequo gradu eloquentia tua atque conscientia pariter incedebant; nullus susceptus quod
+amplius desideraret habuit; nullus iudicum quod in te corrigere posset <<inuenit>>
+
+[te] corrigere posset <<inuenit>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: credo - - to trust, entrust; to commit/consign
+SENTENCE: Quod si quis exstiterit tam improbus litigator, atque omnium fuerit iudicio sacrilega
+mente damnatus, qui reuerentiam tantae sedi exhibere contemnat, et aliquid de nostris affatibus
+<<crediderit>> promerendum, ante alicuius conuentionis effectum decem librarum auri dispendio
+feriatur, quae a palatinis sacrarum largitionum protinus exactae, per manus saepe memorati
+antistitis pauperibus erogentur
+
+de nostris affatibus <<crediderit>> [promerendum,]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: committo - to bring together, unite/join, connect/attach; to put together, construct
+SENTENCE: Patiantur se a rusticitate diuisos, quibus et honores dedimus, et actiones publicas
+probabili aestimatione <<commisimus>>, in ea praesertim regione ubi affatim ueniunt inelaboratae
+deliciae
+
+[publicas] probabili aestimatione <<commisimus,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: consequor - To follow, follow up, press upon, go after, attend, accompany, pursue any person or thing (class. in prose and poetry); constr. with acc. or absol.
+SENTENCE: Et ne aliquid uoluntate praebentium relinquatur incertum, mox ut menses exempti fuerint,
+statutae summae <<consequantur>> praedicti magistri mediam portionem
+
+statutae summae <<consequantur>> praedicti magistri [mediam]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: habeo - to have, hold, consider, think, reason; to manage, keep
+SENTENCE: Habui multos reges, sed neminem huiusmodi litteratum; <<habui>> prudentes uiros, sed
+nullum sic doctrina et pietate pollentem
+
+<<habui>> [prudentes]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: contingo - it happens, it turns out; (PERF) it came to pass
+SENTENCE: Conuenienter honoris praestat augmentum probitas actionis; nec decet differri, quem
+frequenter efficacem <<contigit>> approbari
+
+[efficacem] <<contigit>> approbari
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: committo - to bring together, unite/join, connect/attach; to put together, construct
+SENTENCE: Digne siquidem eius integritati <<committimus>> quae custodienda esse censemus
+
+siquidem eius integritati <<committimus>> [quae]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: desero - to undo or sever (one's connection with another); to leave, forsake, abandon, desert, give up
+SENTENCE: Omnes ergo, qui gremiorum celsa petimus, uitiorum humilia <<deseramus>>
+
+[humilia] <<deseramus>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: relinquo - to leave behind, abandon; (pass.) to be left, remain
+SENTENCE: In exsecutore illud est pessimum, si iudicis <<relinquat>> arbitrium
+
+si iudicis <<relinquat>> [arbitrium]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: credo - - to trust, entrust; to commit/consign
+SENTENCE: <<Credo>> uirum sanctum hac necessitate constrictum, ut et auaro principi satisfaceret, et
+periclitanti populo subueniret
+
+<<Credo>> [uirum]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: accipio - to take, grasp, receive, accept, undertake; to admit, let in, hear, learn
+SENTENCE: nam si sit, non <<accipiat>> fata, sed faciat
+
+non <<accipiat>> [fata,]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: mitto - to send, throw, hurl, cast; to let out, release, dismiss
+SENTENCE: Qui me <<misit>>, maior est me
+
+[me] <<misit,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: nolo - to be unwilling; to wish not to
+SENTENCE: Sed ut omne mysterium haeresis Arianae traducam, cur <<nolint>> Filium de Patris
+substantia credi, breuiter intimabo
+
+cur <<nolint>> [Filium]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: teneo - to represent; to support
+SENTENCE: Non <<teneo>> auctorem nuntii
+
+Non <<teneo>> [auctorem]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: habeo - to have, hold, consider, think, reason; to manage, keep
+SENTENCE: Quodsi nihil <<habes>>, ut responsurum te scio, cur tam bene paratus ad bella non militas
+
+[nihil] <<habes,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: duco - to lead, command; to think, consider, regard
+SENTENCE: <<ducant>> pontifices Christi uxores uirgines; quamuis bonae mentis sit, qui cicatricem
+habuerit et deformis est, priuetur sacerdotio; lepra corporis animae uitiis praeferatur; crescamus
+et multiplicemur et repleamus terram; nec immolemus agnum nec mysticum pascha celebremus, quia haec
+absque templo fieri lege prohibentur; figamus septimo mense tabernaculum et sollemne ieiunium bucina
+concrepemus
+
+<<ducant>> [pontifices]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: habeo - to have, hold, consider, think, reason; to manage, keep
+SENTENCE: <<Habes>> sanctum Exuperius probatae aetatis et fidei, qui te monitis suis frequenter
+instituat
+
+<<Habes>> [sanctum]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: audio - to hear, listen, accept, agree with; to obey
+SENTENCE: si uideres sororem tuam et illud sacri oris eloquium coram audire contingeret, cerneres in
+paruo corpusculo ingentes animos, <<audires>> totam ueteris et noui testamenti supellectilem ex
+illius corde feruere
+
+<<audires>> [totam]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: video - to see, look at; to consider
+SENTENCE: <<Uidimus>> Timotheum nostri temporis et canos in Sapientia electumque a Moysi
+presbyterum, quem ipse sciret esse presbyterum
+
+<<Uidimus>> [Timotheum]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: timeo - to fear, dread, be afraid (ne + SUB = lest; ut or ne non + SUB = that ... not)
+SENTENCE: Quasi enim mortem illius differe possimus et uitam facere longiorem, sic <<timemus>> ad
+ultimum peruenire
+
+sic <<timemus>> ad [ultimum]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: disco - to learn; to hear, get to know, become acquainted with
+SENTENCE: Sit in gremio auiae, quae repetat in nepte, quidquid praemisit in filia, quae longo usu
+<<didicit>> nutrire
+
+[quae] longo usu <<didicit>> nutrire
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: deduco - - to lead/draw//pull/bring/stretch down/away/out/off; to escort
+SENTENCE: Cumque et illam et te ad beati Pauli basilicam barbari <<deduxissent>>, ut uel salutem
+uobis ostenderet uel sepulchrum, in tantam laetitiam dicitur erupisse, ut gratias ageret Deo, quod
+te sibi integram reseruasset, quod pauperem illam non fecisset captiuitas, sed inuenisset, quod
+egeret cotidiano cibo, quod saturata Christo non sentiret esuriem, quod et uoce et opere loqueretur
+
+[basilicam] barbari <<deduxissent,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: accedo - to come near, approach; to agree with
+SENTENCE: tributum mihi soluis, ad imperium non <<accedis>>, habere non potes praefecturam
+
+[imperium] non <<accedis,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: consumo - - to burn up, destroy/kill; to put end to
+SENTENCE: Nunc exsurgam, dicit Dominus, nunc clarificabor et exaltabor, nunc uidebitis, nunc
+intelligetis, nunc confundemini, uana erit fortitudo Spiritus uestri, ignis uos <<consumet>>
+
+[uos] <<consumet>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: impero - to order, command, levy; to rule (over) (w/DAT)
+SENTENCE: Decemuiri ex libris res diuinas easdem quae proxime secundum id prodigium factae essent
+<<imperarunt>>
+
+[prodigium] factae essent <<imperarunt>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: video - to see, look at; to consider
+SENTENCE: Ualerio imperat ut parte una duarum legionum equites, altera sociorum equitatum in cornua
+hostium emittat nec circuire eos aciem patiatur; simul et ipse, ut extenuatam mediam diductis
+cornibus aciem Gallorum <<uidit>>, signa inferre confertos milites et perrumpere ordines iubet
+
+[aciem] Gallorum <<uidit,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: video - to see, look at; to consider
+SENTENCE: Ceteris ita oppidum, ita agros ademimus ut agrum locumque ad habitandum daremus, urbem
+innoxiam stare incolumem pateremur, ut qui hodie <<uideat>> eam nullum oppugnatae captaeue ibi
+uestigium inueniat
+
+ut qui hodie <<uideat>> [eam]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: duco - to lead, command; to think, consider, regard
+SENTENCE: Consul equitibus iussis, qua quisque posset, opem ferre laborantibus ipse legiones e
+castris e<<ducit>> et agmine quadrato ad hostem <<ducit>>
+
+[hostem] <<ducit>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: peto - to attack; to aim at
+SENTENCE: inuidente facilius impetrari posse ratus, Romam inopinato cum uenisset, senatum in aede
+Bellonae habuit expositisque rebus gestis, ut triumphanti sibi in urbem inuehi liceret <<petit>>
+
+[urbem] inuehi liceret <<petit>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: audio - to hear, listen, accept, agree with; to obey
+SENTENCE: extremum litus progressus, cum rex in proram nauis in ancoris stantis processisset,
+commodius inquit, si in terram egrediaris, ex propinquo dicamus in uicem <<audiamusque>>
+
+[uicem] <<audiamusque>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: accedo - to come near, approach; to agree with
+SENTENCE: reparationem <<accessit>> quod phalanx Macedonum grauis atque immobilis nec circumagere se
+poterat nec hoc hoc ed
+
+{reparationem} <<accessit>> [quod]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: scio - to know, understand;
+SENTENCE: Is triumphus, ut loco et fama rerum gestarum et quod sumptum non erogatum ex aerario omnes
+<<sciebant>>, inhonoratior fuit, ita signis carpentisque et spoliis ferme aequabat
+
+[omnes] <<sciebant,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: credo - - to trust, entrust; to commit/consign
+SENTENCE: Id a Quinctio facile impetratum, non quia satis dignos eos <<credebat>>, sed quia Antiocho
+rege iam suspecto fauor conciliandus nomini Romano apud ciuitates erat
+
+[eos] <<credebat,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: do - - to give; dedicate
+SENTENCE: Qui custodit ueritatem in saeculum, facit iudicium iniuriam patientibus, <<dat>> escam
+esurientibus
+
+<<dat>> [escam]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: video - to see, look at; to consider
+SENTENCE: Dum pertransiero, auferam manum meam, et tunc <<uidebis>> gloriam meam
+
+et tunc <<uidebis>> [gloriam]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: mitto - to send, throw, hurl, cast; to let out, release, dismiss
+SENTENCE: Hoc autem breuium quaestionum, quod ad Brutum <<mittit>>, munusculum unius anni tempore,
+ut uidetur, uerno compositum esse e prooemii
+
+[Brutum] <<mittit,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: sumo - to accept; to begin
+SENTENCE: Carnem apud patrem non habebam, de massa tua <<sumpsi>>, unde tibi erogarem
+
+[tua] <<sumpsi,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: promitto - to promise;
+SENTENCE: Hanc eis ambulantibus substernebat, illam peruenientibus <<promittebat>>
+
+[illam] peruenientibus <<promittebat>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: accipio - to take, grasp, receive, accept, undertake; to admit, let in, hear, learn
+SENTENCE: Simul enim <<accepistis>> et unitatem spiritus in uinculo pacis, si tamen et uos, quod
+opto, quod spero, quod exhortor ac deprecor, et, quod <<accepistis>>, integrum custodiatis, et
+proficiendo ad maiora ueniatis
+
+[quod] <<accepistis,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: video - to see, look at; to consider
+SENTENCE: Scimus, inquit, quia cum apparuerit, similes ei erimus, quoniam <<uidebimus>> eum, sicuti
+est
+
+quoniam <<uidebimus>> [eum,]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: cupio - to wish/long/be eager for; to desire/want, covet
+SENTENCE: Est, quod <<cupias>>, ut ista non <<cupias>>
+
+[ista] non <<cupias>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: do - - to give; dedicate
+SENTENCE: Benedictus Dominus, qui non <<dedit>> nos in uenationem dentibus eorum
+
+qui non <<dedit>> [nos]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: do - - to give; dedicate
+SENTENCE: Benedictus Dominus, qui non <<dedit>> nos in uenationem dentibus eorum
+
+qui non <<dedit>> [nos]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: perdo - to ruin, destroy; to lose
+SENTENCE: Illi saeuitiam <<perdiderunt>>, gloriam Martyres inuenerunt
+
+[saeuitiam] <<perdiderunt,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: specto - to observe, watch, look at, see; to test
+SENTENCE: Hoc plane et de beato Cypriano Christi sancto Martyre nullo modo est dubitandum, quod
+plurimi eorum, qui occisum impie <<spectauerunt>>, in eius Dominum crediderunt, et forte etiam ipsi
+imitando Christi nomine sanguinem funderunt
+
+[occisum] impie <<spectauerunt,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: invenio - to come upon; to discover, find
+SENTENCE: <<Inuenit>> omnes stultos, errantes, superflua colentes, temporalia diligentes, aeterna
+nescientes
+
+<<Inuenit>> [omnes]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: habeo - to have, hold, consider, think, reason; to manage, keep
+SENTENCE: Nemo haec <<habet>>, quando uult, perdit et quando non uult
+
+[haec] <<habet,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: habeo - to have, hold, consider, think, reason; to manage, keep
+SENTENCE: Contemne mortem, <<habebis>> uitam
+
+<<habebis>> [uitam]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: timeo - to fear, dread, be afraid (ne + SUB = lest; ut or ne non + SUB = that ... not)
+SENTENCE: Modo iam nullam tentationem <<timet>>
+
+[nullam] {tentationem} <<timet>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: habeo - to have, hold, consider, think, reason; to manage, keep
+SENTENCE: Hinc iterum unusquisque ad domum suam finem <<habet>> redeundi
+
+[finem] <<habet>> redeundi
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: aufero - to bear/carry/take/fetch/sweep/snatch away/off, remove, withdraw; to steal, obtain
+SENTENCE: Nam, cum parum fuisset diabolo abstulisse omnia, quae ille possidebat, <<abstulit>> et
+filios, quibus ille possidebat, sola relicta uxore
+
+<<abstulit>> et [filios,]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: doceo - to teach, show, point out;
+SENTENCE: Cum ergo magna faceret, utilia praeciperet, corrigeret uitia, castigaret, uirtutes
+<<doceret>>, sanitates etiam corporum operaretur, ut sanaret mentes infidelium, iratus populus, ubi
+est natus, et nutritus, et tanta ista fecit, occidit eum
+
+[uirtutes] <<doceret,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: habeo - to have, hold, consider, think, reason; to manage, keep
+SENTENCE: Praesentem <<habemus>>, futuram credimus
+
+[Praesentem] <<habemus,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: reddo - to return; to restore
+SENTENCE: Quid enim nondum <<reddidit>> Deus
+
+[Quid] enim nondum <<reddidit>> Deus
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: habeo - to have, hold, consider, think, reason; to manage, keep
+SENTENCE: Hoc enim sapiunt, imo desipiunt, quod Dominus Iesus non <<habuerit>> hominem matrem,
+contra Euangelium, contra lucem ipsius ueritatis
+
+Dominus Iesus non <<habuerit>> [hominem]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: pario - to acquire (accounts); to settle a debt
+SENTENCE: Mater ista sancta, honorata, Mariae similis et <<parit>>, et uirgo est
+
+[similis] et <<parit,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: constituo - - to set up/in position, erect; to place/dispose/locate
+SENTENCE: haec ergo quae istis, ut dixi, duabus Epistolis illorum, ista disputatione respondeo, ad
+tuam potissimum dirigere Sanctitatem, non tam discenda quam examinanda, et ubi forsitan aliquid
+displicuerit, emendanda <<constitui>>
+
+[emendanda] <<constitui>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: credo - - to trust, entrust; to commit/consign
+SENTENCE: Quae Romam litterae posteaquam uenerunt, id continentes, non sufficere hominibus
+tardioribus et sollicitioribus, quod se generaliter Innocentii episcopi litteris consentire
+fatebatur; sed aperte eum debere anathematizare quae in suo libello praua posuerat; ne si id non
+fecisset, multi parum intelligentes magis in libello eius illa fidei uenena a Sede Apostolica
+<<crederent>> approbata, propterea quod ab illa dictum erat, eum libellum esse catholicum, quam
+emendata, propter illud quod se Papae Innocentii litteris consentire ipse responderat
+
+a Sede {Apostolica} <<crederent>> [approbata,]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: aufero - to bear/carry/take/fetch/sweep/snatch away/off, remove, withdraw; to steal, obtain
+SENTENCE: sed non <<aufert>> infirmitatem, cui regeneratus resistit, quando bonum agonem luctatur;
+consentit autem, quando sicut homo in aliquo delicto praeoccupatur; propter illud gaudens in actione
+gratiarum, propter hoc autem gemens in allegatione orationum
+
+sed non <<aufert>> [infirmitatem,]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: diligo - to value or esteem highly, to love
+SENTENCE: Qui <<diligit>> me, inquit, diligetur a Patre meo, et ego diligam eum, et manifestabo me
+ipsum illi
+
+Qui <<diligit>> [me,]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: nescio - to not know (how); to be ignorant/unfamiliar/unaware/unacquainted/unable/unwilling
+SENTENCE: neque enim felicem illum dixerim, qui confusus quibusdam mentis suae tenebris conditionem
+suam <<nescit>>
+
+[suam] <<nescit>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: transeo - to go over, cross;
+SENTENCE: Quae uetera <<transierunt>>
+
+[uetera] <<transierunt>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: divido - to divide; to separate, break up
+SENTENCE: Ex quibus thesaurarius dat quartam basilicario, tres reliquas partes <<diuident>>
+aequaliter sibi cum primicerio, et presbytero, qui missam celebrat in eamdem basilicam
+
+[partes] <<diuident>> aequaliter sibi cum
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: video - to see, look at; to consider
+SENTENCE: Tunc more auium, quibus, dum terra niuibus uestitur, et alicuius loci in spem cibi
+spoliatur angustia, <<uideres>> quae remanere potuerunt plebis reliquias confluxisse, et ad boni
+pastoris praesentiam undique fatigatis balatu nemoribus greges accurrere
+
+<<uideres>> [quae]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: reddo - to return; to restore
+SENTENCE: Deum precor, ut studiis uestris gratiam suam comitem iungat, ut quos a me limandos
+accepisti, doctissimos <<reddas>>
+
+[doctissimos] <<reddas>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: contingo - it happens, it turns out; (PERF) it came to pass
+SENTENCE: Quod nisi grauia iudicantum ingenia dicendi causas expenderent, nullum daret haec quae
+etiam indignis <<contingit>>, acclamantium aura discrimen
+
+[quae] etiam indignis <<contingit,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: habeo - to have, hold, consider, think, reason; to manage, keep
+SENTENCE: Tu cum uideas aetatis in me ualetudinem miseriarum fasce mollitam, cum aeui robur
+multiplicium calamitatum uarietate contritum, cum et necessitate senectae <<habeam>> et inuidiam
+iuuentutis, non a me desistis poscere quod et hostis remisisset exhausto
+
+et necessitate senectae <<habeam>> et [inuidiam]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: accipio - to take, grasp, receive, accept, undertake; to admit, let in, hear, learn
+SENTENCE: Ergo Spiritus sanctus <<accepit>> a Christo, secundum testimonium Christi
+
+[Spiritus] sanctus <<accepit>> a Christo,
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: pertineo - to reach; to extend
+SENTENCE: Saepius dictum est quia unum ad concordiam <<pertinet>>
+
+[concordiam] <<pertinet>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: audio - to hear, listen, accept, agree with; to obey
+SENTENCE: quia, cum sis bonus ac religiosus, nec uitium iudicii apud prudentes religionum, quid a
+quo <<audiat>>, sed an quae <<audiat>> sint religiosa, diiudicet
+
+[quid] a quo <<audiat,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: lego - to read; gather, collect (cremated bones)
+SENTENCE: Si igitur praeputium iustitias <<legis>> custodiat, nonne praeputium eius in
+circumcisionem reputabitur, et iudicabit quod ex natura est praeputium legem perficiens, te qui per
+litteram et circumcisionem praeuaricator <<legis>> es
+
+[iustitias] <<legis>> custodiat,
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: promitto - to promise;
+SENTENCE: Quibus autem Gentibus bene operantibus gloriam et honorem pacemque <<promitteret>>, extra
+Euangelii gratiam constitutis
+
+[pacemque] <<promitteret,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: exspecto - to lookout for, await; to expect, anticipate, hope for
+SENTENCE: cum ab hac peregrinatione in qua per fidem nunc ambulatur, peruentum erit ad speciem, quam
+nondum uisam speramus, et per patientiam <<exspectamus>>, procul dubio et ipsa dilectio non solum
+supra quam hic habemus, sed longe supra quam petimus et intelligimus erit; nec ideo tamen plus esse
+poterit, quam ex toto corde, ex tota anima, ex tota mente
+
+[patientiam] <<exspectamus,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: sumo - to accept; to begin
+SENTENCE: Sacramentum pietatis in iudicium sibi <<sumit>> indignus
+
+[iudicium] sibi <<sumit>> indignus
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: perdo - to ruin, destroy; to lose
+SENTENCE: Potest homo inuitus amittere temporalia bona; numquam uero, nisi uolens, <<perdit>>
+aeterna
+
+<<perdit>> [aeterna]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: perdo - to ruin, destroy; to lose
+SENTENCE: Nam qui se nullo iam munere credit egere, Crescere non cupiens, <<perdit>> adepta tepens
+
+<<perdit>> [adepta]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: audio - to hear, listen, accept, agree with; to obey
+SENTENCE: Ex qua Isaiae prophetia credendum est, maxime Cyrum regem dilexisse filios Israel, eosque
+de captiuitate exemptos domum remisisse, ac templum Domini reaedificare iussisse, quod <<audierit>>
+prophetas eorum per Spiritum Dei de suo regno et Babyloniorum destructione fuisse praelocutos
+
+[quod] <<audierit>> {prophetas} eorum per
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: fero - to bring, bear; to tell/speak of
+SENTENCE: Nabuchodonosor <<tulit>> uasa Domini de Ierusalem, cum quilibet immundus spiritus fidelium
+aliquos de Ecclesia rapiens, gaudio internae pacis priuat
+
+{Nabuchodonosor} <<tulit>> [uasa]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: relinquo - to leave behind, abandon; (pass.) to be left, remain
+SENTENCE: Et omnis, inquit, qui <<reliquerit>> domum, uel fratres, aut sorores, aut patrem, aut
+matrem, aut uxorem, aut filios, aut agros, propter nomen meum, centuplum accipiet, et uitam aeternam
+possidebit
+
+qui <<reliquerit>> [domum,]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: pervenio - to come to; to reach
+SENTENCE: Quomodo autem filii transmigrationis altare constructum, oblata Deo holocausta, ad
+aedificandum templum <<peruenerint>>, subsequenter ostenditur
+
+[templum] <<peruenerint,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: dono - To give (alicui aliquod, or aliquem aliqua re => one something as a present); to present, bestow
+SENTENCE: Nisi forte credendum est etiam Artaxerxen, misso Hierosolymam plurimo auri et argenti
+pondere, iussisse, ut si quid minus in aedificatione, uel in ornatu templi, siue uasorum eius esset
+completum, ex ipsa quam miserat et <<donauerat>> pecunia perficeretur
+
+[quam] miserat et <<donauerat>> pecunia perficeretur
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: do - - to give; dedicate
+SENTENCE: Pacem relinquo uobis, pacem meam <<do>> uobis; id est, temporalem in terra peregrinantibus
+relinquo, perpetuam ad coelestem patriam peruenientibus <<do>>
+
+[patriam] peruenientibus <<do>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: pervenio - to come to; to reach
+SENTENCE: Neque hoc sine figura mysterii factum est, quod prima die mensis coepit ascendere de
+Babylone, et prima rursum die mensis <<peruenit>> in Hierusalem; primordium namque mensis, in quo
+luna nouum a sole lumen mutuari creditur, nouum doni coelestis initium designat
+
+[mensis] <<peruenit>> in {Hierusalem;}
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: fero - to bring, bear; to tell/speak of
+SENTENCE: Et ut <<feras>> argentum et aurum, etc
+
+Et ut <<feras>> [argentum]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: praebeo - - to present/show/put forward; to offer
+SENTENCE: Oportet namque omnimode, ut quicunque ad deprecandam misericordiam Domini ingrediatur,
+primo continentius uiuendo, dignum se qui exaudiatur <<praebeat>>; atque ita Dominum rogans, non
+dubitet prospere sibi euentura quae postulat
+
+[se] qui exaudiatur <<praebeat;>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: diligo - to value or esteem highly, to love
+SENTENCE: Transgressus est Iudas, et abominatio facta est in Israel et in Ierusalem, quia
+contaminauit Iudas sanctificationem Domini, quam <<dilexit>>, et habuit filiam Dei alieni
+
+[quam] <<dilexit,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: credo - - to trust, entrust; to commit/consign
+SENTENCE: Nemo ergo <<credat>> Dei Filium conuersum et commutatum esse in hominis filium
+
+Nemo ergo <<credat>> Dei [Filium]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: diligo - to value or esteem highly, to love
+SENTENCE: Qui nos ita <<dilexit>>, ut propter nos fieret in tempore, per quem facta sunt tempora; et
+multis seruis suis in mundo minor esset aetate, ipso mundo antiquior aeternitate; homo fieret qui
+hominem fecit, crearetur ex matre quam creauit, portaretur manibus quas formauit, sugeret ubera quae
+impleuit, in praesepi muta uagiret infantia Uerbum, sine quo muta est humana eloquentia
+
+[nos] ita <<dilexit,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: addo - to add, insert, bring/attach to, to say in addition; to increase
+SENTENCE: Ipse fecit quod esset, quia hominem Deo <<addidit>>, non Deum in homine perdidit
+
+[hominem] Deo <<addidit,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: nolo - to be unwilling; to wish not to
+SENTENCE: Christum parere non potuistis, sed propter Christum parere <<noluistis>>
+
+[Christum] parere <<noluistis>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: credo - - to trust, entrust; to commit/consign
+SENTENCE: Certe non hoc credas, quod Gentes <<credunt>>; certe non hoc speres, quod Gentes sperant
+
+[Gentes] <<credunt;>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: occido - to strike down, strike to the ground; to beat, smash, crush
+SENTENCE: uelut Cain accipiente signum, ut eum nullus <<occidat>>, qui fratrem iustum inuidus et
+superbus occidit
+
+[eum] nullus <<occidat,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: accipio - to take, grasp, receive, accept, undertake; to admit, let in, hear, learn
+SENTENCE: Sicut autem ternarius a tribus, quaternarius a quatuor; ita denarius a decem nomen
+<<accepit>>
+
+[nomen] <<accepit>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: pario - to acquire (accounts); to settle a debt
+SENTENCE: Numquid non uirgo sancta Maria et <<peperit>>, et uirgo permansit
+
+[Maria] et <<peperit,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: credo - - to trust, entrust; to commit/consign
+SENTENCE: Qui enim dicit quod aliquid facere de nihilo non potuerit, quomodo <<credit>> quod
+omnipotens fecerit
+
+quomodo <<credit>> [quod]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: invenio - to come upon; to discover, find
+SENTENCE: Si <<inuenires>> fontem in tenebris, lucernam accenderes, ut peruenires ad eum
+
+Si <<inuenires>> [fontem]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: intendo - to hold out; to stretch, strain, exert
+SENTENCE: <<Intendunt>> enim uos modo nati, quomodo uiuatis olim nati
+
+<<Intendunt>> enim [uos]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: voco - to call, summon; to name
+SENTENCE: Et <<uocauit>> Deus lucem, diem; et tenebras, noctem
+
+Et <<uocauit>> Deus [lucem,]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: nescio - to not know (how); to be ignorant/unfamiliar/unaware/unacquainted/unable/unwilling
+SENTENCE: Tu solus, inquiunt, peregrinus es in Ierusalem, et <<nescis>> quae ibi gesta sunt
+
+et <<nescis>> [quae]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: invenio - to come upon; to discover, find
+SENTENCE: imo distinctam <<inuenimus>>, distinctam legimus, distinctam esse didicimus
+
+[distinctam] <<inuenimus,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: fundo - to pour, pour out, shed;
+SENTENCE: ante quem nobis expedit, ut credamus quod credi de se uoluit, qui nos redemit, qui salutem
+nostram quaesiuit, qui nobis sanguinem <<fudit>>; qui nobis quod non ei debebatur pertulit, qui
+nobis quod nobis non debebatur attulit
+
+[sanguinem] <<fudit;>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: perdo - to ruin, destroy; to lose
+SENTENCE: nam beneficium <<perdidisti>>
+
+[beneficium] <<perdidisti>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: sentio - to perceive, feel, experience; to think, realize, see, understand
+SENTENCE: De animarum statu mortem quid <<senserint>> philosophi
+
+[quid] <<senserint>> philosophi
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: habeo - to have, hold, consider, think, reason; to manage, keep
+SENTENCE: Apparet feminae quare <<habeant>> ubera, utique ut paruulos lactent
+
+Apparet feminae quare <<habeant>> [ubera,]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: credo - - to trust, entrust; to commit/consign
+SENTENCE: <<credidit>>, sed falsum <<credidit>>
+
+[falsum] <<credidit>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: scribo - to write; to compose
+SENTENCE: Hucusque de lectione euangelica, quae pertinet ad resurrectionem Domini, quam <<scripsit>>
+Ioannes euangelista, sermonem fecisse suffecerit
+
+[quam] <<scripsit>> {Ioannes} {euangelista,}
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: habeo - to have, hold, consider, think, reason; to manage, keep
+SENTENCE: resurrectionem autem <<habebit>> certo numero solos bonos
+
+{resurrectionem} autem <<habebit>> certo numero [solos]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: traho - to draw, drag, haul; to derive, get
+SENTENCE: Quam, cum impleta esset, educentes, <<traxerunt>> illam ad littus; et iuxta littus
+sedentes elegerunt bonos in uasa, malos autem foras miserunt
+
+<<traxerunt>> [illam]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: mitto - to send, throw, hurl, cast; to let out, release, dismiss
+SENTENCE: quadraginta dies ascendit in coelum, et decimo die postea quam ascendit, <<misit>>
+Spiritum sanctum
+
+<<misit>> [Spiritum]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: video - to see, look at; to consider
+SENTENCE: stercus <<uideo>>, locum quaero; dic, amice, unde tristis es
+
+[stercus] <<uideo,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: habeo - to have, hold, consider, think, reason; to manage, keep
+SENTENCE: Quid ergo miramini, quia peccatores, quia impii, quia iniqui, quia Dei contemptores, a Deo
+auersi, saeculi dilectores, amplectentes iniquitatem, odio <<habent>>es ueritatem, hoc est, homines
+pertinentes ad hominem; quid miramini, quia <<habent>> istam sanitatem, cum audiatis Psalmum,
+Homines et iumenta saluos facies, Domine
+
+quia <<habent>> [istam]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: audio - to hear, listen, accept, agree with; to obey
+SENTENCE: Ubi autem leuatus est in tertium coelum, et <<audiuit>> ineffabilia uerba, quae non licet
+homini loqui, non dixit, Ego
+
+et <<audiuit>> {ineffabilia} [uerba,]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: laudo - to recommend; to praise, approve, extol
+SENTENCE: tu quem Simeon senex paruulum agnouit, magnumque <<laudauit>>
+
+[magnumque] <<laudauit>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: credo - - to trust, entrust; to commit/consign
+SENTENCE: Quia recte <<credidisti>> in carnem Christi, modo fruere maiestate et diuinitate Christi
+
+Quia recte <<credidisti>> in [carnem]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: lego - to read; gather, collect (cremated bones)
+SENTENCE: secundum interiorem enim hominem consentiebat <<legi>> Patris, ut pateretur; secundum
+exteriorem autem, ut ipse testatur, in carne trepidabat
+
+[hominem] consentiebat <<legi>> Patris,
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: noceo - to harm, hurt; to injure (with DAT)
+SENTENCE: Nunc uero quia et uos administrationis cura, et me studium huius regiminis occupat, in
+tantum nos recte diligere specialiter possumus, in quantum generalitati minime <<nocemus>>
+
+[quantum] {generalitati} minime <<nocemus>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: confero - to bring together, carry/convey; to collect/gather, compare
+SENTENCE: Rursum cum me ad considerandum debitum Pastoris uerbum ac silentium <<confero>>, pauenti
+cura perpendo, quod ualde necesse est ut et discretus sit in silentio, et utilis in uerbo, ne aut
+tacenda proferat, aut proferenda reticescat
+
+[silentium] <<confero,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: desidero - to desire/want, long/wish for, request, require/need; to miss, lack
+SENTENCE: Sed considerandum quoque est ut rector cum se ad loquendum praeparat, sub quantae cautelae
+studio loquatur attendat; ne si inordinate ad loquendum rapitur, erroris uulnere audientium corda
+feriantur, et cum fortasse sapiens uideri <<desiderat>>, unitatis compagem insipienter abscindat
+
+[sapiens] uideri <<desiderat,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: video - to see, look at; to consider
+SENTENCE: Hinc Iacob Domino desuper innitente, et uncto deorsum lapide, ascendentes et descendentes
+angelos <<uidit>>, quia scilicet praedicatores recti non solum sursum sanctum caput Ecclesiae,
+uidelicet Dominum, contemplando appetunt, sed deorsum quoque ad membra illius miserando descendunt
+
+[angelos] <<uidit,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: gero - to bear, carry, wear; to carry on
+SENTENCE: Discedenti tibi mandauimus, et postmodum praeceptis discurrentibus iniunxisse me memini,
+ut curam pauperum <<gereres>>
+
+[pauperum] <<gereres>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: contemno - - to think little of; to look down on, take poor view of
+SENTENCE: Qui dum excellentiae uestrae patrociniis se cingi conspicit, ad examinandum iudicium
+uenire <<contemnit>>
+
+[iudicium] uenire <<contemnit>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: cupio - to wish/long/be eager for; to desire/want, covet
+SENTENCE: Sicut in iudiciis laicorum priuilegia turbare non <<cupimus>>, ita eis praeiudicantibus,
+moderata te uolumus auctoritate resistere
+
+[priuilegia] turbare non <<cupimus,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: amo - to love, like; to fall in love with
+SENTENCE: Et quamuis cum omnibus hominibus pacem habere summopere cupiam, uobiscum praecipue, quos
+uehementer <<amo>>, si tamen ipsi quos noui uos estis
+
+[quos] uehementer <<amo,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: reddo - to return; to restore
+SENTENCE: In his ergo omnibus ita te uolumus solerter impendi, ut nec direpti gregis pastor reus
+existas, nec apud nos minor aemulatio fraternitatem tuam reprehensibilem <<reddat>>
+
+[tuam] {reprehensibilem} <<reddat>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: respicio - to look back at; to gaze at
+SENTENCE: Quorumdam de Laudensium uenientium partibus ad nos relatione peruenit, religionem locorum
+ipsorum ita ab ecclesiasticae disciplinae tramite deuiasse, ut nullatenus in suis moribus,
+actionibusque canonicae dispositionis statuta <<respiciant>>
+
+[statuta] <<respiciant>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: diligo - to value or esteem highly, to love
+SENTENCE: Sed quia ille plus <<diligit>>, qui plus praesumit, erga dulcissimam mentem gloriosissimi
+filii mei domni Theodori habeo aliquam querelam, quia donum ingenii, donum rerum, donum
+misericordiae atque charitatis a sancta Trinitate percepit; sed tamen saecularibus indesinenter
+causis astringitur, assiduis processionibus occupatur, et quotidie legere neglegit uerba Redemptoris
+sui
+
+[plus] <<diligit,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: scribo - to write; to compose
+SENTENCE: Sed ne ii qui uobis ista <<scripserunt>> scandalizari uideantur, transmittite eis
+epistolam, in qua sub anathematis interpositione fateamini neque uos aliquid de fide Chalcedonensis
+synodi imminuere, neque eos qui imminuunt recipere, et quoscunque damnauit damnare, et quoscunque
+absoluit absoluere
+
+[ista] <<scripserunt>> {scandalizari} uideantur,
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: convenio - it agrees/came together/is agreed/asserted; [bene ~ nobis=>we're on good
+SENTENCE: Cuius uos assiduis adhortationibus <<conuenit>> obedire, quatenus in ecclesiastico
+obsequio, atque in Dei laudibus uigilanti debeatis cura persistere, moresque uestros sub digna
+ecclesiastici regiminis disciplina componere
+
+[uos] assiduis adhortationibus <<conuenit>> {obedire,}
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: appello - to drive to or toward, to go to in order to accost, to make a request, admonish
+SENTENCE: Sed cum se noua praesumptione atque superbia idem frater meus uniuersalem episcopum
+<<appellet>>, ita ut sanctae memoriae decessoris mei tempore ascribi se in synodo tali hoc superbo
+uocabulo faceret, quamuis cuncta acta illius synodi, sede contradicente apostolica, soluta sint,
+triste mihi aliquid serenissimus dominus innuit, quod non eum corripuit qui superbit, sed magis ab
+intentione mea declinare studuit, qui in hac causa Euangeliorum et canonum humilitatis atque
+rectitudinis ueritatem defendo
+
+[uniuersalem] {episcopum} <<appellet,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: pervenio - to come to; to reach
+SENTENCE: In Sicilia autem insula Stephanus quidam, marinarum partium chartularius, tanta
+praeiudicia tantasque oppressiones operari dicitur, inuadendo loca singulorum, atque sine dictione
+causarum per possessiones ac domos titulos ponendo, ut si uelim acta eius singula quae ad me
+<<peruenerunt>> dicere, magno uolumine haec explere non possim
+
+[me] <<peruenerunt>> dicere,
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: teneo - to represent; to support
+SENTENCE: Facti sumus ut paruuli in medio uestrum, exemplum procul dubio nobis sequentibus ostendit,
+ut et humilitatem <<teneamus>> in mente, et lamen ordinis nostri dignitatem seruemus in honore,
+quatenus nec in nobis humilitas timida, nec erectio sit superba
+
+[humilitatem] <<teneamus>> in mente,
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: reddo - to return; to restore
+SENTENCE: In qua re ualde placuit, laetosque nos <<reddidit>>, quia in causa Anastasii quondam
+episcopi, quam ei examinandam iniunximus, uigilantiam suam et diligenter exercuit, et cognita
+crimina, ut iustitia poscebat et oportuit, iudicauit
+
+[nos] <<reddidit,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: confero - to bring together, carry/convey; to collect/gather, compare
+SENTENCE: Quia uero dum uiueret saepius a nobis expetiit ut ea quae in monasterio illo contulerat
+quod iuxta ecclesiam sancti Apollinaris ipse construxerat nostra debuissemus auctoritate firmare, et
+nos facturos hoc esse promisimus, fraternitatem uestram necessario praeuidimus adhortandam, ut nihil
+de his quae illic <<contulit>> atque constituit aliquo modo patiatur imminui, sed omnia firma
+studeat stabilitate seruari
+
+[quae] illic <<contulit>> atque constituit aliquo
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: pertineo - to reach; to extend
+SENTENCE: Quapropter, frater charissime, dominicorum reminiscens salubriter mandatorum, ita in
+commissae plebis regimine, lucrandisque animabus inuigila, ut, ante tribunal aeterni iudicis
+constitutus, fructum bonae operationis, qui ad mercedem tuam <<pertineat>>, Redemptori nostro, in
+quo laetari possit, exhibeas
+
+[tuam] <<pertineat,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: credo - - to trust, entrust; to commit/consign
+SENTENCE: Quaedam uero eum per epistolam meam de anima sua admonui, sed nihil mihi omnino respondit,
+unde <<credo>> quia ea neque legere dignatus est
+
+unde <<credo>> quia [ea]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: fero - to bring, bear; to tell/speak of
+SENTENCE: Cui etiam duo caeteri in re eadem testimonium <<ferebant>>
+
+[testimonium] <<ferebant>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: transeo - to go over, cross;
+SENTENCE: Unde et superna gestum dispensatione non ambigo ut qui bene minima gesserat congrue maiora
+susciperet, atque a cura rerum ad animarum regimina <<transiret>>
+
+[regimina] <<transiret>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: mitto - to send, throw, hurl, cast; to let out, release, dismiss
+SENTENCE: Praeterea ante triennium, cogente causa monachorum Isauriae, qui haeretici accusabantur,
+satisfaciens mihi quondam frater et consacerdos meus domnus Ioannes litteras <<misit>>, quibus
+nitebatur ostendere eos Ephesinae synodi definitionibus contradixisse; et uelut ex eadem synodo
+certa nobis quibus ipsi obsisterent capitula destinauit
+
+[litteras] <<misit,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: prohibeo - to hinder, restrain; to forbid, prevent
+SENTENCE: Sed ne uel per cuiuslibet monachi aut abbatis promotionem aliquod onus monasteria fortasse
+sustineant, studendum uobis est ut si quispiam abbatum aut monachorum ex quocunque monasterio ad
+clericatus officium uel ordinem sacrum accesserit, non illic aliquam habeat ulterius, ut diximus,
+potestatem, ne monasteria huius occasionis uelamine, quae <<prohibemus>>, sustinere onera
+compellantur
+
+[quae] <<prohibemus,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: addo - to add, insert, bring/attach to, to say in addition; to increase
+SENTENCE: Ipsi aduersus haereses animos <<addit>>
+
+[animos] <<addit>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: pertineo - to reach; to extend
+SENTENCE: Nullus igitur ultra audeat de reditibus uel chartis praedicti monasterii, uel de loco
+aliquo qui ad ipsum <<pertinet>> quocunque modo, qualibet exquisitione, minuere, nec immissiones uel
+dolos aliquos facere
+
+[ipsum] <<pertinet>> quocunque modo,
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: scribo - to write; to compose
+SENTENCE: Ea uero quae nobis <<scripsistis>>, uel praesentium lator coram positus explicauit, nos
+non credatis negligenter omittere, sed de his omnino sollicite cogitamus
+
+[quae] nobis <<scripsistis,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: peto - to attack; to aim at
+SENTENCE: Et <<petitis>> ut haec bona mente suscipiam
+
+Et <<petitis>> ut [haec]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: praebeo - - to present/show/put forward; to offer
+SENTENCE: Gloriae uestrae bonitas nuntio ueraci diffusa tantam nobis de se certitudinem <<praebet>>,
+ut in nullo de ea diffidere, sed magis sicut reuera sapienti filio Ecclesiae nostrae debeamus
+specialiter causam commendare
+
+[se] {certitudinem} <<praebet,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: lego - to read; gather, collect (cremated bones)
+SENTENCE: Quanquam ea quae ad Ecclesiae iura perueniunt alienari <<legis>> ratio non permittat,
+temperanda tamen interdum est censura districtionis, ubi misericordiae respectus inuitat maxime
+quando tanta est quantitas quae nec dantem onerat, et accipientis pauperiem iuxta aliquid consolatur
+
+[iura] perueniunt alienari <<legis>> ratio non permittat,
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: do - - to give; dedicate
+SENTENCE: Sed ut prodesse nobis eamdem pacem, quemadmodum a uobis facta est, sentiamus, paterna
+charitate salutantes, petimus ut quoties se occasio <<dederit>>, ducibus uestris per diuersa loca,
+et maxime in his partibus constitutis, uestris praecipiatis epistolis ut hanc pacem, sicut promissum
+est, pure custodiant, et occasiones sibi aliquas non quaerant unde aut contentio quaedam, aut
+ingratitudo nascatur, quatenus uoluntati uestrae amplius agere gratias ualeamus
+
+[se] occasio <<dederit,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: pervenio - to come to; to reach
+SENTENCE: <<Peruenit>> ad nos quondam Benenatum Misenatem episcopum construendo illic castro solidos
+accepisse
+
+<<Peruenit>> ad [nos]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: video - to see, look at; to consider
+SENTENCE: In petra enim, id est in sancta Ecclesia stantes, Dei posteriora <<uidebimus>>, quando iam
+ea quae in fine promissa sunt coelestis patriae gaudia contemplabimur
+
+[posteriora] <<uidebimus,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: do - - to give; dedicate
+SENTENCE: Sed quia per hos multi in huius labem peccati perhibentur esse collapsi, cunctos qui rei
+esse claruerint, Dominici corporis ac sanguinis participatione priuare uos conuenit, atque eos
+uestris epistolis districtius admonere ut litaniis et orationibus operam <<dent>>, et peccati quam
+contraxerunt maculam flendo tergant
+
+[operam] <<dent,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: credo - - to trust, entrust; to commit/consign
+SENTENCE: Ex qua re inhumanum <<credidi>>, si is qui se multum timere me dicit, in aliquo me
+temperatiorem minime inuenire potuisset
+
+[inhumanum] <<credidi,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: doceo - to teach, show, point out;
+SENTENCE: Uideat quod imitetur, discat quod <<doceat>>, informetur quod teneat; ut postea non debeat
+errare, qui eligitur uiam errantibus demonstrare
+
+[quod] <<doceat,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: committo - to bring together, unite/join, connect/attach; to put together, construct
+SENTENCE: Perit itaque reuerentia, adimitur disciplina, quia qui culpas debuit emendare
+<<committit>>, et nefaria ambitione honorabilis sacerdotii ducitur in deprauatione censura
+
+[culpas] debuit emendare <<committit,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: amitto - to lose; to lose by death
+SENTENCE: Quasi enim prospero flatu nauigabam, cum tranquillam uitam in monasterio ducerem; sed
+procellosis subito motibus tempestas exorta in sua perturbatione me rapuit, et prosperitatem
+itineris <<amisi>>, quia quiete perdita mentis naufragium pertuli
+
+[prosperitatem] itineris <<amisi,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: peto - to attack; to aim at
+SENTENCE: Laudat eius Pastoralem librum, <<petitque>> expositiones in Ezechielem et in Cantica
+
+<<petitque>> [expositiones]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: adverto - to turn/face to/towards; to direct/draw one's attention to
+SENTENCE: Si scriptorum nostrorum seriem uoluisses diligenter <<aduertere>>, aut sponte restituere
+quae tulisti, aut certe personam secundum admonitionem nostram in causa transmittere debuisti
+
+[seriem] uoluisses diligenter <<aduertere,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: credo - - to trust, entrust; to commit/consign
+SENTENCE: Sed <<credo>> quod prius hoc mihi nuntiauerat quam de causa Ecclesiae beatitudo uestra
+loqueretur
+
+Sed <<credo>> [quod]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: contingo - it happens, it turns out; (PERF) it came to pass
+SENTENCE: Et gaudeo, quia ubi uos adesse <<contigit>>, me non arbitror defuisse
+
+[uos] adesse <<contigit,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: desum - to be wanting/lacking; to fail/miss
+SENTENCE: Neque enim angelorum Dominus horae subiectus erat, qui inter cuncta quae creauerat horas
+et tempora fecerat; sed quia mater Uirgo cum uinum <<defuit>>, per eum miraculum fieri uolebat,
+statim ei responsum est
+
+[uinum] <<defuit,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: indico - to point out, indicate
+SENTENCE: <<Indicamus>> praeterea quia grauem hic difficultatem interpretum patimur
+
+<<Indicamus>> praeterea quia [grauem]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: diligo - to value or esteem highly, to love
+SENTENCE: Attendite haec omnia ubi uel quid facta sunt, et ex hoc pensate quam nulla sint, et quia
+qui ista <<diligit>>, somnium uigilans uidet
+
+[ista] <<diligit,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: accipio - to take, grasp, receive, accept, undertake; to admit, let in, hear, learn
+SENTENCE: Sed debet gloria uestra meminisse quia nunquam epistolas meas commendatione alicuius
+<<accepit>>, nisi ut protectionem uestram, fauente iustitia, praestaretis
+
+[meas] commendatione alicuius <<accepit,>>
+
+RESULT: OV
+----------------------------------------
+
+----------------------------------------
+VERB: metuo - to fear; to be afraid
+SENTENCE: Cuius quia uerba non transeunt, sed per omnia implentur, <<metuamus>> quod iterum dicit
+
+<<metuamus>> [quod]
+
+RESULT: VO
+----------------------------------------
+
+----------------------------------------
+VERB: placeo - it is pleasing/satisfying, gives pleasure; is believed/settled/agreed/decided
+SENTENCE: Differ tempus furoris, et cum tranquilla mens fuerit, quod <<placet>> iudica
+
+[quod] <<placet>> iudica
+
+RESULT: OV
+----------------------------------------
+
