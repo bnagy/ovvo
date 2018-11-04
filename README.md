@@ -31,7 +31,7 @@ unzip cps5.zip -d cps5
 
 It is very likely that Collatinus 11.1 will crash at some point during `pass3.py` (it seems to have a small memory leak, and I am hitting the TCP Server very hard). You can just restart `pass3.py` and it will pick up where it left off.
 
-For debugging, there are some tools in the `util` directory, provided with no warranty or support.
+For debugging, there are some tools (`clean`, `preproc`, `parse`), provided with no warranty or support.
 
 ## Contributing
 
